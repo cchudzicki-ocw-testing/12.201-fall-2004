@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a MATLAB tutorial and a MATLAB routine for the
+  computation of spherical harmonics.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
